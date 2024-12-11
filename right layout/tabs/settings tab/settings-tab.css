@@ -1,0 +1,8 @@
+#settings-tab {
+    margin-left: 231px;
+    margin-top: 60.8px;
+    width: calc(100vw - 231px);
+    height: calc(100vh - 60.8px);
+    background-color: #f7f9f9;
+    display: none;
+}

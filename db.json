@@ -1,0 +1,17 @@
+{
+    "apartmentCharge": [
+        {
+            "id": "38721607-a700-4c09-a2d4-b9fedc09e2c6",
+            "apartmentId": "21a5bce0-7c38-4181-8cd4-1c1cf6b59252",
+            "apartmentName": "Apartment 101",
+            "chargeId": "1e442430-c511-44cd-9d26-00439b8b7c38",
+            "chargeName": "Phí ủng hộ lũ lụt",
+            "chargeAmount": 0.00,
+            "unitQuantity": 0,
+            "amountPaid": 100000,
+            "paymentMethod": "CASH",
+            "createAt": "2024-12-11T16:22:20.518214",
+            "updateAt": null
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+#common-tab {
+    margin-left: 231px;
+    margin-top: 60.8px;
+    width: calc(100vw - 231px);
+    height: calc(100vh - 60.8px);
+    background-color: #f7f9f9;
+    display: none;
+}
+
+#common-tab .common-tab-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#common-tab .common-tab-button {
+    padding: 40px 70px 0px 0px;
+    margin-right: 0px;
+}
+
+#common-tab .common-tab-create-btn {
+    padding: 10px 20px;
+    background-color: #5390d9;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#common-tab .charge-header {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 550;
+    padding: 20px 0px 0px 40px;
+    gap: 10px;
+    cursor: pointer;
+}
+
+#common-tab .charge-body {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+    gap: 40px;
+}
+
+#common-tab .charge-item {
+    width: 180px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 7px;
+    background-color: #caf0f8;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+#common-tab .charge-item-num {
+    padding: 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: #669bbc;
+    color: #fff;
+    border-radius: 3px;
+}
+
+#common-tab .charge-item-text {
+    font-size: 1.2rem;
+    font-weight: 550;
+}
+
+#common-tab .charge-item-icon {
+    cursor: pointer;
+}
